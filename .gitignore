@@ -15,3 +15,13 @@ profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
 profaheroku3/obj/Debug/netcoreapp3.1/profaheroku3.csprojAssemblyReference.cache
 profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
 profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
+*.exe
+profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
+profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
+profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs
+*.cache
+profaheroku3/.vs/profaheroku3/DesignTimeBuild/.dtbcache.v2
+profaheroku3/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
+profaheroku3/obj/profaheroku3.csproj.nuget.g.props
+profaheroku3/obj/project.assets.json
+profaheroku3/obj/project.nuget.cache
