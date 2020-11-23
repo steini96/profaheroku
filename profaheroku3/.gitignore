@@ -1,2 +1,4 @@
 
-bin/debug/netcoreapp3.1
+bin/
+obj/
+.vs/
